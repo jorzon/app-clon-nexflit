@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-clon-nexflit/static/css/main.759fbcc7.css",
+    "main.css": "/app-clon-nexflit/static/css/main.09e2e821.css",
     "main.js": "/app-clon-nexflit/static/js/main.7cea45c1.js",
     "static/js/787.28cb0dcd.chunk.js": "/app-clon-nexflit/static/js/787.28cb0dcd.chunk.js",
     "static/media/netflix.png": "/app-clon-nexflit/static/media/netflix.a3092e10ce2527646427.png",
@@ -9,12 +9,12 @@
     "static/media/slick.ttf": "/app-clon-nexflit/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/app-clon-nexflit/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/app-clon-nexflit/index.html",
-    "main.759fbcc7.css.map": "/app-clon-nexflit/static/css/main.759fbcc7.css.map",
+    "main.09e2e821.css.map": "/app-clon-nexflit/static/css/main.09e2e821.css.map",
     "main.7cea45c1.js.map": "/app-clon-nexflit/static/js/main.7cea45c1.js.map",
     "787.28cb0dcd.chunk.js.map": "/app-clon-nexflit/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.759fbcc7.css",
+    "static/css/main.09e2e821.css",
     "static/js/main.7cea45c1.js"
   ]
 }

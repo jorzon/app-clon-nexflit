@@ -3,9 +3,9 @@
 </h1>
 <p align="center"><i>Show information about different movies around the world very similar to NETFLIX</i></p>
 <p align="center">
-    <a href="https://jorzon.github.io/app-clon-nexflit/">Go to website on GITHUB PAGES</a>&nbsp;
+    <a target="_blank" href="https://jorzon.github.io/app-clon-nexflit/">Go to website on GITHUB PAGES</a>&nbsp;
     ·
-    <a href="https://app-clon-netflix.netlify.app/">Go to website on NETFILY </a>&nbsp;
+    <a target="_blank" href="https://app-clon-netflix.netlify.app/">Go to website on NETFILY </a>&nbsp;
   </p>
 <br/>
 

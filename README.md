@@ -1,7 +1,7 @@
 <h1 align="center">
   Jorzon.exe 👽
 </h1>
-<p align="center"><i>Show information about different movies around the world</i></p>
+<p align="center"><i>Show information about different movies around the world very similar to NETFLIX</i></p>
 <p align="center">
     <a href="https://jorzon.github.io/app-clon-nexflit/">Go to website on GITHUB PAGES</a>&nbsp;
     ·
